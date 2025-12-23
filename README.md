@@ -10,11 +10,6 @@ An AI-powered Flutter application that analyzes movie reviews and determines whe
 - **Beautiful UI**: Clean and modern user interface
 - **Cross-Platform**: Works on Web, iOS, Android, macOS, Linux, and Windows
 
-## 📱 Screenshots
-
-![App Screenshot 1](screenshots/positive.png)
-![App Screenshot 2](screenshots/negative.png)
-
 ## 🛠️ Tech Stack
 
 - **Framework**: Flutter 3.38.5
